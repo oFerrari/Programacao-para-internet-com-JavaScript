@@ -7,4 +7,6 @@ frase = "BRASIL MY TEAM"
 
 console.log(nome);
 console.log(idade+idade2)
-console.log(frase)
+console.log(frase.replace("BRASIL","EUA"))
+alert(frase.replace("BRASIL","EUA"))
+alert(frase.toLowerCase())
