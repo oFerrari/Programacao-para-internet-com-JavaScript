@@ -17,3 +17,12 @@ console.log(lista.join(" | "))
 
 console.log(lista[0])
 console.log(lista.toString()[0])
+
+var fruta = {nome:"maca",cor:"vermelha"};
+console.log(fruta);
+console.log(fruta.nome);
+
+var frutas = [{nome:"maca",cor:"vermelha"},{nome:"uva",cor:"roxo"}];
+console.log(frutas)
+console.log(frutas[0])
+console.log(frutas[0].nome)
